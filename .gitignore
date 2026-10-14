@@ -1,0 +1,22 @@
+
+# Compiled Java files
+*.class
+target/
+
+# SQLite databases
+*.db
+*.db-shm
+*.db-wal
+
+# Downloaded libraries
+*.jar
+
+# Debug logs
+maven-debug.log
+maven-debug
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
